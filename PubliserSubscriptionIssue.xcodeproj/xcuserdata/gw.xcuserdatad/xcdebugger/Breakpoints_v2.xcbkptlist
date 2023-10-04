@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C5CE50FB-FFDD-496C-9255-E7925048CE21"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0AEB563-FBA9-43D9-B03A-65C196CE3396"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PubliserSubscriptionIssue/ModelTracker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "model"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E0AEB563-FBA9-43D9-B03A-65C196CE3396 - 241e30d90fa90ab7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PubliserSubscriptionIssue.ModelTracker.model.didset : Swift.Optional&lt;PubliserSubscriptionIssue.Model&gt;"
+                  moduleName = "PubliserSubscriptionIssue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gw/Documents/projects/PubliserSubscriptionIssue/PubliserSubscriptionIssue/ModelTracker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "2460">
+               </Location>
+               <Location
+                  uuid = "E0AEB563-FBA9-43D9-B03A-65C196CE3396 - 69c28a53b354c7b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #6 (Swift.Bool) -&gt; () in PubliserSubscriptionIssue.ModelTracker.model.didset : Swift.Optional&lt;PubliserSubscriptionIssue.Model&gt;"
+                  moduleName = "PubliserSubscriptionIssue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gw/Documents/projects/PubliserSubscriptionIssue/PubliserSubscriptionIssue/ModelTracker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "E0AEB563-FBA9-43D9-B03A-65C196CE3396 - 69c28a53b354c46d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #6 (Swift.Bool) -&gt; () in PubliserSubscriptionIssue.ModelTracker.model.didset : Swift.Optional&lt;PubliserSubscriptionIssue.Model&gt;"
+                  moduleName = "PubliserSubscriptionIssue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gw/Documents/projects/PubliserSubscriptionIssue/PubliserSubscriptionIssue/ModelTracker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66C9708E-85D4-4BC8-A636-BA312511F631"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PubliserSubscriptionIssue/ModelTracker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "model"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "66C9708E-85D4-4BC8-A636-BA312511F631 - 241e30d90fa90508"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PubliserSubscriptionIssue.ModelTracker.model.didset : Swift.Optional&lt;PubliserSubscriptionIssue.Model&gt;"
+                  moduleName = "PubliserSubscriptionIssue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gw/Documents/projects/PubliserSubscriptionIssue/PubliserSubscriptionIssue/ModelTracker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "700">
+               </Location>
+               <Location
+                  uuid = "66C9708E-85D4-4BC8-A636-BA312511F631 - 9696fa8a23d86109"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool) -&gt; () in PubliserSubscriptionIssue.ModelTracker.model.didset : Swift.Optional&lt;PubliserSubscriptionIssue.Model&gt;"
+                  moduleName = "PubliserSubscriptionIssue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gw/Documents/projects/PubliserSubscriptionIssue/PubliserSubscriptionIssue/ModelTracker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "66C9708E-85D4-4BC8-A636-BA312511F631 - adeb16bfc7a53b48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in PubliserSubscriptionIssue.ModelTracker.model.didset : Swift.Optional&lt;PubliserSubscriptionIssue.Model&gt;"
+                  moduleName = "PubliserSubscriptionIssue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gw/Documents/projects/PubliserSubscriptionIssue/PubliserSubscriptionIssue/ModelTracker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC7BE78C-C8E9-4902-9EEE-53CC8217849B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PubliserSubscriptionIssue/ModelTracker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "model"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "EC7BE78C-C8E9-4902-9EEE-53CC8217849B - 9696fa8a23d86210"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool) -&gt; () in PubliserSubscriptionIssue.ModelTracker.model.didset : Swift.Optional&lt;PubliserSubscriptionIssue.Model&gt;"
+                  moduleName = "PubliserSubscriptionIssue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gw/Documents/projects/PubliserSubscriptionIssue/PubliserSubscriptionIssue/ModelTracker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "EC7BE78C-C8E9-4902-9EEE-53CC8217849B - 9696fa8a23d86233"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool) -&gt; () in PubliserSubscriptionIssue.ModelTracker.model.didset : Swift.Optional&lt;PubliserSubscriptionIssue.Model&gt;"
+                  moduleName = "PubliserSubscriptionIssue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gw/Documents/projects/PubliserSubscriptionIssue/PubliserSubscriptionIssue/ModelTracker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
