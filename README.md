@@ -7,6 +7,6 @@ In case if the first line of the callback contains `guard let strongRef = weakRe
 The issue is reproducible in both macOS and iOS applications.
 
 Reproduced with:
-macOS 14.0 (23A344)
-Xcode 15.0 (15A240d)
-Xcode 15.1 beta (15C5028h)
+* macOS 14.0 (23A344)
+* Xcode 15.0 (15A240d)
+* Xcode 15.1 beta (15C5028h)
