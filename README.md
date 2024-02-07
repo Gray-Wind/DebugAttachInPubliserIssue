@@ -1,6 +1,6 @@
 # DebugAttachInPublisherIssue
 
-* Fixed in Xcode 15.3 beta 2 *
+** Fixed in Xcode 15.3 beta 2 **
 
 The project demonstrates the issue with debugger attach to `sink` method of publisher.
 
