@@ -1,5 +1,7 @@
 # DebugAttachInPublisherIssue
 
+* Fixed in Xcode 15.3 beta 2 *
+
 The project demonstrates the issue with debugger attach to `sink` method of publisher.
 
 In case if the first line of the callback contains `guard let strongRef = weakRef...` the debugger cannot be attached on a breakpoint of such callback.
